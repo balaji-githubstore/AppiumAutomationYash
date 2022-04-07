@@ -5,7 +5,7 @@ using OpenQA.Selenium.Appium.Android;
 using System;
 using System.Collections.Generic;
 using System.Threading;
-
+//basic demo
 namespace MobileAutomation
 {
     [TestClass]
