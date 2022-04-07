@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileAutomation", "MobileAutomation\MobileAutomation.csproj", "{A067B92A-9185-4662-8038-F42CC917E6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A067B92A-9185-4662-8038-F42CC917E6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A067B92A-9185-4662-8038-F42CC917E6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A067B92A-9185-4662-8038-F42CC917E6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A067B92A-9185-4662-8038-F42CC917E6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4C3FCC-9D94-4255-ACE9-62AFC80CA04A}
+	EndGlobalSection
+EndGlobal
